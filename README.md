@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Matano</h1>
-<h3 align="center">A passionate Data Analysis</h3>
+<p align="center">
+  <img src="https://github.com/    " altx="Hi! I am Matano">
+</p>
+
+<!-- If you want to make this gift, look for maty091 readme (github.com/maty091). -->
+
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 - 👯 I’m looking to collaborate on **Data Analysis Projects**
