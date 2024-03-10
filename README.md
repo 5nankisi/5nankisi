@@ -13,9 +13,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=5nankisi&show_icons=true&locale=en&layout=compact" alt="5nankisi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=5nankisi&" alt="5nankisi" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=5nankisi&show_icons=true&locale=en" alt="5nankisi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=5nankisi&" alt="5nankisi" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=5nankisi&label=Profile%20views&color=0e75b6&style=flat" alt="5nankisi" /> </p>
 
